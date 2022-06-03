@@ -10,4 +10,8 @@ You need to be able to test, maintain, change and grow.
 
 **Linux**, please.
 
-Working at [bloq.com](bloq.com)
+Do us all a favor.
+
+**Working at** [bloq.com](bloq.com) with:
+
+Blockchain, Typescript, React, Node, Kubernetes and Docker.
