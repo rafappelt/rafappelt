@@ -14,4 +14,4 @@ Do us all a favor.
 
 **Working at** [bloq.com](bloq.com) with:
 
-Blockchain, Typescript, React, Node, Kubernetes and Docker.
+Blockchain, Typescript, React, Node, Helm, Kubernetes and Docker.
