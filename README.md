@@ -1,4 +1,4 @@
-### Software Developer since 2000
+### Software Developer since 1999
 
 **Typescript** is currently my preferred language.
 
