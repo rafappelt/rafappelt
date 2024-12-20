@@ -12,6 +12,6 @@ We need to be able to test, maintain, change and grow.
 
 Do us all a favor.
 
-**Working at** [bloq.com](bloq.com) with:
+**Working at** [hemi.xyz](hemi.xyz) with:
 
 Blockchain, Typescript, React, Node, Helm, Kubernetes and Docker.
