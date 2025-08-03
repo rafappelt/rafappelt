@@ -11,7 +11,3 @@ We need to be able to test, maintain, change and grow.
 **Linux**, please.
 
 Do us all a favor.
-
-**Working at** [hemi.xyz](hemi.xyz) with:
-
-Blockchain, Typescript, React, Node, Helm, Kubernetes and Docker.
